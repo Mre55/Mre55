@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/34578631/144666672-91e827bb-948f-49de-82c7-cd744c220277.png)
 
-##### I'm a Software Developer / Interested in creating clean and inspiring code solving daily challenges.
+### I'm a Software Developer / Interested in creating clean and inspiring code solving daily challenges.
 
 
 
