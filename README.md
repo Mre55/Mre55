@@ -36,7 +36,7 @@ Languages and Tools:
 
 ## 🤝 Connect with me
 
-<img align="left" alt="LinkedIn" width="20px" src="https://user-images.githubusercontent.com/34578631/144675135-0c0ea4b9-3a44-4fcc-b29a-f40683ff131f.png" /> [LinkedIn](https://www.linkedin.com/in/mihreteab-misganaw-86249812b/)
+<img align="left" alt="LinkedIn" width="20px" src="https://user-images.githubusercontent.com/34578631/144675135-0c0ea4b9-3a44-4fcc-b29a-f40683ff131f.png" /> [LinkedIn](https://www.linkedin.com/in/mihreteabaride/)
 
 
 <img align="left" alt="Twitter" width="20px" src="https://user-images.githubusercontent.com/34578631/144675807-c24f273d-b293-4395-8338-80adc480ebee.png" /> [Twitter](https://twitter.com/MreMisganaw)
