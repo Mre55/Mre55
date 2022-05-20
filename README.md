@@ -13,6 +13,11 @@ About me:
 - :coffee: My daily routine starts with a cup of coffee!
 - :chess_pawn: Chess is my faviorite game!!
 
+📈 GitHub Stats
+-----
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mre55&show_icons=true&theme=radical)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mre55&theme=radical&layout=compact)](https://github.com/mre55/github-readme-stats)
+
 
 Languages and Tools:
 
