@@ -1,53 +1,83 @@
-
-## Hi there, I'm Mihreteab :wave:
-
-![image](https://user-images.githubusercontent.com/34578631/144666672-91e827bb-948f-49de-82c7-cd744c220277.png)
-
-### I'm a Software Developer / Interested in creating clean and inspiring code solving daily challenges.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 
 
-About me:
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/mihreteabaride/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://angel.co/u/mre55">
+    <img src="https://img.shields.io/badge/AngelList-white?style=for-the-badge&logo=angelList&logoColor=black" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/MreMisganaw">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-- :computer: I'm currently on a mission to become a Full stack web developer.
+<div align="center">
+   <img src="https://komarev.com/ghpvc/?username=mre55&style=flat-square&color=blue" alt=""/>
+</div>
+
+<div align="center">
+  <h1>
+    Hi there, I'm Mihreteab :wave:
+  </h1>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :technologist: About Me :
+
+I am a Full Stack Developer.
 - :coffee: My daily routine starts with a cup of coffee!
 - :chess_pawn: Chess is my faviorite game!!
+- 📫 How to reach me misganawmihreteab@gmail.com
+
+---
+
+### :hammer_and_wrench: Technologies & Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+
+
+
+
+
+
+
+
+
+
 
 📈 GitHub Stats
 -----
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mre55&show_icons=true&theme=radical)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mre55&theme=radical&layout=compact)](https://github.com/mre55/github-readme-stats)
-
-
-Languages and Tools:
-
-<img align="left" alt="VScode" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<br />
-
-<br />
-
-
-* * *
+![Mihreteab's GitHub stats](https://github-readme-stats.vercel.app/api?username=mre55&show_icons=true&theme=radical)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mre55&theme=radical&layout=compact)](https://github.com/mre55/github-readme-stats)
 
 
 ## 🤝 Connect with me
-
-<img align="left" alt="LinkedIn" width="20px" src="https://user-images.githubusercontent.com/34578631/144675135-0c0ea4b9-3a44-4fcc-b29a-f40683ff131f.png" /> [LinkedIn](https://www.linkedin.com/in/mihreteabaride/)
-
-
-<img align="left" alt="Twitter" width="20px" src="https://user-images.githubusercontent.com/34578631/144675807-c24f273d-b293-4395-8338-80adc480ebee.png" /> [Twitter](https://twitter.com/MreMisganaw)
-
-
-<img align="left" alt="HTML" width="20px" src="https://user-images.githubusercontent.com/34578631/144675888-759aafb1-5ab5-4836-8186-162180648168.png" /> [Email](misganawmihreteab@gmail.com)
-
 
 
