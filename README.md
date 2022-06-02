@@ -63,11 +63,9 @@ I am a Full Stack Developer.
 
 ### :fire: My Stats :
 
-<div align-items: flex-start>
-  
-![Mihreteab's GitHub stats](https://github-readme-stats.vercel.app/api?username=mre55&show_icons=true&theme=radical)&nbsp;
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mre55&theme=radical&background=000000)](https://git.io/streak-stats) 
-
+<div>
+  ![Mihreteab's GitHub stats](https://github-readme-stats.vercel.app/api?username=mre55&show_icons=true&theme=radical)&nbsp;
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mre55&theme=radical&background=000000)](https://git.io/streak-stats)
 </div>
 
 <div align="center">
