@@ -65,8 +65,8 @@ I am a Full Stack Developer.
 
 <div style="display: flex;">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=mre55&show_icons=true&theme=radical" alt="my stat" width="450" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=mre55&theme=radical&background=000000" alt="my stat" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mre55&show_icons=true&theme=radical" alt="my stat" width="420" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=mre55&theme=radical&background=000000" alt="my stat" width="420" />
   
   
 </div>
